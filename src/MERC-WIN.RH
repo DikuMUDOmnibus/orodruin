@@ -1,0 +1,23 @@
+/****************************************************************************
+
+
+merc-win.rc
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+#define ICON_10	10
+#define ICON_9	9
+#define IDC_POUND	100
+#define ICON_8	8
+#define ICON_7	7
+#define ICON_6	6
+#define ICON_5	5
+#define ICON_4	4
+#define ICON_3	3
+#define ICON_2	2
+#define ICON_1	1
+#define DIALOG_1	1
+#define IDC_EDIT1	101
